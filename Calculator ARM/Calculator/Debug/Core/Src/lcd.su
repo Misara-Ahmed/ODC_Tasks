@@ -1,0 +1,6 @@
+../Core/Src/lcd.c:20:6:LCD_Init	8	static
+../Core/Src/lcd.c:39:6:LCD_SendData	24	static
+../Core/Src/lcd.c:72:6:LCD_SendInst	24	static
+../Core/Src/lcd.c:104:6:LCD_SendStr	16	static
+../Core/Src/lcd.c:113:6:LCD_GoTo	24	static
+../Core/Src/lcd.c:121:6:LCD_SendNumber	32	static

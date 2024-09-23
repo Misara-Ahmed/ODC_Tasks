@@ -1,0 +1,6 @@
+../Core/Src/lcd.c:20:6:LCD_Init	1
+../Core/Src/lcd.c:39:6:LCD_SendData	2
+../Core/Src/lcd.c:72:6:LCD_SendInst	2
+../Core/Src/lcd.c:104:6:LCD_SendStr	2
+../Core/Src/lcd.c:113:6:LCD_GoTo	1
+../Core/Src/lcd.c:121:6:LCD_SendNumber	3

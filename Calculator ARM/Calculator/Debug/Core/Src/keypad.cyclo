@@ -1,0 +1,2 @@
+../Core/Src/keypad.c:25:6:KPAD_Init	2
+../Core/Src/keypad.c:34:9:KPAD_GetKeyPressed	4
